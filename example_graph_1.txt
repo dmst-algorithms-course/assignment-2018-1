@@ -1,0 +1,8 @@
+s a 16
+s c 8
+a b 2
+b t 2
+c d 8
+d t 8
+c e 2
+e t 16
